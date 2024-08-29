@@ -4,7 +4,7 @@ I'm a passionate software backend developer with a keen interest in Python, Djan
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java,JAvaScript
+- **Languages:** Python, Java, JavaScript
 - **Frameworks:** Django, Springboot, Next.js
 - **Tools:** Git, Docker, Redis
 - **Databases:** PostgreSQL
