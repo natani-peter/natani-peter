@@ -1,6 +1,7 @@
 # Hi, I'm Natani Peter 👋
 
-I'm a passionate software backend developer with a keen interest in Python, Django, and CLI tools. I enjoy building scalable applications and automating tasks to improve productivity. 
+I'm a passionate **software backend developer** with a keen interest in Python, Django, and CLI tools.
+I enjoy building scalable applications and automating tasks to improve productivity. 
 
 ## 🛠️ Skills
 
