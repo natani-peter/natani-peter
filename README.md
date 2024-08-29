@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Natani Peter 👋
 
-<!--
-**natani-peter/natani-peter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software backend developer with a keen interest in Python, Django, and CLI tools. I enjoy building scalable applications and automating tasks to improve productivity. 
 
-Here are some ideas to get you started:
+## 🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Java,JAvaScript
+- **Frameworks:** Django, Springboot, Next.js
+- **Tools:** Git, Docker, Redis
+- **Databases:** PostgreSQL
+
+## 📚 Learning
+
+I'm currently diving deeper into:
+
+- Django Rest Framework (DRF)
+- Redis for caching and rate limiting
+- Advanced Git techniques
+- Django
+- FastApi
+
+## 🌱 Open to Collaborations
+
+I'm open to collaborating on interesting projects, especially those involving Python, Django, or building CLI tools. If you have something in mind, feel free to reach out!
+
+## 📫 Contact
+
+- **GitHub:** [natani-peter](https://github.com/natani-peter/)
+- **Email:** [natanipeter@gmail.com](mailto:natanipeter@gmail.com)
+
+Feel free to explore my repositories, and if you find something interesting, don't hesitate to get in touch or contribute!
